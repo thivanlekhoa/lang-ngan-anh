@@ -11,7 +11,7 @@ const scholarshipsData = [
     flag: "🇪🇺",
     badge: "Tài trợ 100% + Du học đa quốc gia",
     shortDesc: "Chương trình Thạc sĩ danh giá nhất Liên minh Châu Âu, học tập tại tối thiểu 2-3 quốc gia khác nhau, cấp 2-3 bằng thạc sĩ chính quy.",
-    officialUrl: "https://www.eacea.ec.europa.eu/scholarships/erasmus-plus-scholarships_en",
+    officialUrl: "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
     samplePrograms: [
       {
         name: "MESPOM - Environmental Sciences, Policy and Management",
@@ -91,7 +91,7 @@ const scholarshipsData = [
     flag: "🇯🇵",
     badge: "100% Học phí + Trợ cấp ~25 triệu/tháng + Vé máy bay",
     shortDesc: "Học bổng chính phủ danh giá nhất châu Á, đào tạo diện Nghiên cứu sinh (Research Student) chuyển tiếp Thạc sĩ tại các viện đại học Hoàng gia Nhật Bản.",
-    officialUrl: "https://www.vn.emb-japan.go.jp/itpr_ja/MEXT_Scholarship.html",
+    officialUrl: "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
     samplePrograms: [
       {
         name: "Graduate School of Frontier Sciences - University of Tokyo",
@@ -166,7 +166,7 @@ const scholarshipsData = [
     flag: "🇰🇷",
     badge: "100% Học phí 3 năm + 1.000.000 KRW/tháng + 1 năm học tiếng Hàn",
     shortDesc: "Học bổng toàn diện của Bộ Giáo dục Hàn Quốc (NIIED) bao gồm 1 năm học tiếng Hàn và 2 năm học chuyên ngành Thạc sĩ tại các trường đại học top 1 Hàn Quốc.",
-    officialUrl: "https://www.studyinkorea.go.kr",
+    officialUrl: "https://www.studyinkorea.go.kr/en/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522",
     samplePrograms: [
       {
         name: "Graduate School of Environmental Studies - Seoul National University (SNU)",
@@ -460,7 +460,7 @@ const scholarshipsData = [
     flag: "🇳🇱",
     badge: "100% Học phí + ~30.000 € Sinh hoạt phí / 2 năm",
     shortDesc: "Học bổng tài trợ toàn phần danh giá nhất của ĐH Công nghệ Delft cho sinh viên quốc tế xuất sắc theo học ngành MSc Environmental Engineering.",
-    officialUrl: "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships",
+    officialUrl: "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships",
     samplePrograms: [
       {
         name: "TU Delft - MSc in Environmental Engineering",
@@ -529,7 +529,7 @@ const scholarshipsData = [
     flag: "🇨🇭",
     badge: "100% Học phí + 12.000 - 13.500 CHF/kỳ (~700 triệu VND/năm)",
     shortDesc: "Chương trình học bổng danh giá bậc nhất thế giới dành cho ứng viên đứng đầu khoa theo học Thạc sĩ tại Viện Công nghệ Liên bang Thụy Sĩ Zurich.",
-    officialUrl: "https://ethz.ch/en/studies/financial/scholarships/esop.html",
+    officialUrl: "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships",
     samplePrograms: [
       {
         name: "ETH Zurich - MSc in Environmental Sciences",
@@ -603,7 +603,7 @@ const scholarshipsData = [
     flag: "🇳🇱",
     badge: "100% Học phí + Kinh phí Hội thảo Khoa học Quốc tế",
     shortDesc: "Đại học Wageningen được xếp hạng số 1 thế giới về Khoa học Môi trường (theo bảng xếp hạng QS World University Rankings).",
-    officialUrl: "https://www.wur.nl/en/education-programmes/master/scholarships-grants-for-international-master-students/excellence-programme.htm",
+    officialUrl: "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships",
     samplePrograms: [
       {
         name: "WUR - MSc Urban Environmental Management",
